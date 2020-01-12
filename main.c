@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 #define MAXQUEUE 200
-#define MAXSTACK 200
 
 typedef enum{TRUE,FALSE} Boolean;
 
