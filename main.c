@@ -131,7 +131,7 @@ int main()
             RemoveQueue(&q,&x);
     }
     printf("\n");
-    printf("\nMarks Queue Is:\n");
+    printf("\nQueue Is:\n");
     DisplayQueue(&q);
     printf("\nSorted Queue Is: \n");
     SortQueue(&q);
